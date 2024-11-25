@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "with-camera",
+    "slug": "with-camera",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon4.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icon4.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.with-camera"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon4.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.example.withcamera"
+    },
+    "web": {
+      "favicon": "./assets/icon4.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8732abac-97fb-44e3-9caf-63b9db67fdbb"
+      }
+    }
+  }
+}
